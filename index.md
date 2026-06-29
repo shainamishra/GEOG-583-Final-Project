@@ -1,2 +1,3 @@
 title: Clean Energy in the USA
+
 description: Clean energy is the energy that comes from natural sources like the sun, wind, and water. It is better for the environment than burning oil or gas, and many states across the USA are working to build more of it. However, not everyone benefits from clean energy equally. In many places, low-income communities have less access to clean energy resources like solar panels, wind turbines, and EV charging stations. This is a problem that needs to be understood and addressed.
